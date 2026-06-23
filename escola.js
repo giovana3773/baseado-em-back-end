@@ -1,4 +1,5 @@
 const dadosDoAluno = require('./aluno.json');
+const dadosDoAluno = require(`node ./aluno2.json`);
 
 console.log("--- Sistema escolar ---");
 console.log(`Nome: ${dadosDoAluno.nome}`);

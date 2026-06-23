@@ -4,4 +4,4 @@ const nomeViajante = "Giovana";
 let duracao = 8;
 let transporte = "carro";
 
-console.log('${nomeViajante} viajará de ${origem} para ${destino} por ${duracao}h de ${transporte}.);
+console.log(`${nomeViajante} viajará de ${origem} para ${destino} por ${duracao}h de ${transporte}.`);
